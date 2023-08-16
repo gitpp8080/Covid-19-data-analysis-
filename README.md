@@ -1,4 +1,4 @@
-# Covid-19-data-analysis-
+# Covid-19-data-analysis
 Certainly, here's a sample README file for your COVID-19 Data Analysis project:
 
 # COVID-19 Data Analysis Project
